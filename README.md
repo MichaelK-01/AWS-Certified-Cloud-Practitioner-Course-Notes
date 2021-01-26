@@ -15,5 +15,5 @@ As part of this course, there will be three hands on labs. These hands-on labs w
 ### Course Outline
 
 **1.0 Cloud Concepts & Tehnology**
-  - 1.1) What Is Cloud Computing
+  - What Is Cloud Computing?
   
