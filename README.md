@@ -7,10 +7,11 @@ The Certified Cloud Practitioner prep course by Cloud Guru was designed for non-
 
 The AWS Certified Cloud Practitioner certification will allow me to better interact with developers and other IT professionals engaged in AWS-related projects. Secondly, earning this credential will be my first step toward the more technical AWS Associate-level certifications.
 
-As part of this course, there will be three hands on labs. These hands-on labs will bridge the theory knowledge and real skills. The labs will be based on real-world scenarios in real cloud environments that will allow me to practice what I have learned. This course will contain the following three labs:
-1. Launching an EC2 instance in a Custom Virtual Private Cloud (VPC) 
-2. Creating a Lambda Function Using the AWS Console
-3. Managing AWS IAM User Permissions Using Groups and Policies
+As part of this course, there will be three hands on labs. These hands-on labs will bridge the theory knowledge and real skills. The labs will be based on real-world scenarios in real cloud environments that will allow me to practice what I have learned. This course will contain the following four labs:
+1. Setting Up Billing Alarm
+2. Launching an EC2 instance in a Custom Virtual Private Cloud (VPC) 
+3. Creating a Lambda Function Using the AWS Console
+4. Managing AWS IAM User Permissions Using Groups and Policies
 
 ### Course Outline
 
@@ -18,5 +19,6 @@ As part of this course, there will be three hands on labs. These hands-on labs w
   - 1.1 What Is Cloud Computing?
   - 1.2 Around The World With AWS
   - 1.3 Let's Log In To AWS
+  - 1.4 Setting Up Billing Alarm
   
   
