@@ -16,4 +16,7 @@ As part of this course, there will be three hands on labs. These hands-on labs w
 
 **1.0 Cloud Concepts & Tehnology**
   - 1.1 What Is Cloud Computing?
+  - 1.2 Around The World With AWS
+  - 1.3 Let's Log In To AWS
+  
   
